@@ -1,9 +1,9 @@
 
 {
-  "name": "midjourney-prompt-generator",
+  "name": "dall-e-prompt-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carloslhg.github.io/midjourney-prompt-generator",
+  "homepage": "https://carloslhg.github.io/dall-e-prompt-generator",
   "dependencies": {
     "@chakra-ui/react": "^2.10.2",
     "@emotion/react": "^11.13.3",
